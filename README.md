@@ -4,10 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maulanasykari) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Maulanasykari@gmail.com) 
-<!-- <div align="center"> -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=weisscurry.weisscurry&left_color=darkgoldenrod"  />
-<!-- </div> -->
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Maulanasykari@gmail.com) <img src="https://visitor-badge.laobi.icu/badge?page_id=weisscurry.weisscurry&left_color=darkgoldenrod"  />
 
 
 
