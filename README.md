@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Curry's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeissCurry&show_icons=true&theme=vision-friendly-dark&locale=de)
+![Curry's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeissCurry&show_icons=true&theme=vision-friendly-dark)
 <!--
 **WeissCurry/WeissCurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
