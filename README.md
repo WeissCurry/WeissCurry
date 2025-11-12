@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on **GDGOC UINJKT**<br>
 🌱 I’m currently learning **Web3**<br>
 
 ## 🌐 Socials:
